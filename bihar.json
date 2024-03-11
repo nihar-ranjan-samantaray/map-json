@@ -3585,17 +3585,6 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "226",
-            "district": "Munger",
-            "st_code": "10",
-            "year": "2011_c",
-            "st_nm": "Bihar"
-          }
-        },
-        {
-          "arcs": [[-35, 74, -63, -62, 75, 76]],
-          "type": "Polygon",
-          "properties": {
-            "dt_code": "226",
             "district": "DHARAHARA",
             "st_code": "10",
             "year": "2011_c",
@@ -3806,6 +3795,22 @@
           "properties": {
             "dt_code": "235",
             "district": "Aurangabad",
+            "st_code": "10",
+            "year": "2011_c",
+            "st_nm": "Bihar"
+          }
+        }
+      ]
+    },
+    "blocks": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [[0, 1, 2]],
+          "type": "Polygon",
+          "properties": {
+            "dt_code": "203",
+            "district": "XYZ",
             "st_code": "10",
             "year": "2011_c",
             "st_nm": "Bihar"
